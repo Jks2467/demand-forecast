@@ -2,9 +2,9 @@ import setuptools
 
 __version__ = "0.0.0"
 
-REPO_NAME = ""
+REPO_NAME = "demand-forecast"
 AUTHOR_USER_NAME = "Jks2467"
-SRC_REPO = ""
+SRC_REPO = "Demand-Forecast"
 AUTHOR_EMAIL = "jksharma2467@gmail.com"
 
 setuptools.setup(

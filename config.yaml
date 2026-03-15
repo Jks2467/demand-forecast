@@ -1,0 +1,5 @@
+artifacts:
+  dataset: artifacts/dataset/sales_order_dataset.csv
+  processed_dataset: artifacts/dataset/processed_dataset.csv
+  model: artifacts/trained_model/DemandRegressor.pkl
+  load_model: artifacts/trained_model/DemandRegressor.pkl
